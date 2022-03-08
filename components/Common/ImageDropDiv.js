@@ -1,7 +1,7 @@
 import React from "react";
 import { Form, Segment, Image, Icon, Header } from "semantic-ui-react";
 
-function ImageDropDiv({
+function  ImageDropDiv({
   highlighted,
   setHighlighted,
   inputRef,
